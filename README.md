@@ -1,19 +1,20 @@
 ### Hola! 👋
 
-I'm AbdulSamad Ayoade, a front end developer with Economics background and love for anything Tech and User Interface. I'm passionate about building stuffs that live on the internet, whether websites, applications or anything that can be found in between.
+I'm AbdulSamad Ayoade, a front end developer with Economics background and love for anything Tech and User Interface. I'm passionate about clean code and how code can be turned into beautiful websites and web apps that provide awesome user experiences.
 
 - 🌱 I’m currently learning Javascript
-- 👯 I’m looking to contribute to open source projects
-- 🤔 I’m looking for a front end developer internship
+- 👯 I’m interested in contributing to open source projects
+- 🤔 I’m looking for a front end developer role
 - 💬 Ask me about anything, I'll be happy to help
 - 📫 How to reach me: DM [@samadayoade](https://twitter.com/samadayoade)
-- ⚡ Fun fact: Besides programming, I enjoy gaming and reading books
+- ⚡ Fun fact: Besides programming, I enjoy gaming and reading thriller series
 
 ### Useful Links 💙
 
 - [Resume](https://drive.google.com/file/d/12XobuKUOhXNRj4njy-1fxmNQelQU2M8L/view?usp=sharing)
 - [Portfolio](https://abdulsamadayoade.github.io/portfolio)
-- [Blog](https://hashnode.com/@Abdulsamad)
+- [Blog](https://abdulsamad.hashnode.dev)
 - [GitHub](https://github.com/abdulsamadayoade)
+- [Facebook](https://facebook.com/abdulsamad.ayoade.313)
 - [Twitter](https://twitter.com/samadayoade)
 - [Instagram](https://www.instagram.com/remitheog/)
