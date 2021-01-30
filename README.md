@@ -12,9 +12,9 @@ I'm AbdulSamad Ayoade, a front end developer with Economics background and love 
 ### Useful Links 💙
 
 - [Resume](https://abdulsamadayoade.github.io/portfolio/ayoadesamadRESUME.pdf)
-- [Portfolio](https://abdulsamadayoade.github.io/portfolio)
-- [Blog](https://abdulsamad.hashnode.dev)
+- [Portfolio](https://abdulsamad.xyz)
+- [Blog](https://articles.abdulsamad.xyz)
 - [GitHub](https://github.com/abdulsamadayoade)
 - [Facebook](https://facebook.com/abdulsamad.ayoade.313)
 - [Twitter](https://twitter.com/samadayoade)
-- [Instagram](https://www.instagram.com/remitheog/)
+- [Instagram](https://www.instagram.com/abdul_codes/)
