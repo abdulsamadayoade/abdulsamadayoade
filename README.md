@@ -7,7 +7,7 @@ I'm AbdulSamad Ayoade, a front end developer with Economics background and love 
 - 🤔 I’m looking for a front end developer role
 - 💬 Ask me about anything, I'll be happy to help
 - 📫 How to reach me: DM [@samadayoade](https://twitter.com/samadayoade)
-- ⚡ Fun fact: Besides programming, I enjoy gaming and reading thriller series
+- ⚡ Fun fact: While I'm not coding, you'll find me writing fiction, reading African literatures, or studying finance and economics.
 
 ### Useful Links 💙
 
