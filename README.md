@@ -11,7 +11,7 @@ I'm AbdulSamad Ayoade, a front end developer with Economics background and love 
 
 ### Useful Links 💙
 
-- [Resume](https://abdulsamad.xyz/resume)
+- [Resume](https://drive.google.com/file/d/1VLrAURaDoH1QmWT192O5HKbuJH6hywcGwLtGs2aDVyA/view)
 - [Portfolio](https://abdulsamad.xyz)
 - [Blog](https://articles.abdulsamad.xyz)
 - [GitHub](https://github.com/abdulsamadayoade)
