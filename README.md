@@ -1,10 +1,10 @@
 ### Hola! 👋
 
-I'm AbdulSamad Ayoade, a front end developer with Economics background and love for anything Tech and User Interface. I'm passionate about clean code and how code can be turned into beautiful websites and web apps that provide awesome user experiences.
+I'm AbdulSamad Ayoade, a creative frontend developer based in Nigeria who loves and enjoy working between design and engineering teams to transform ideas into prototypes and prototypes into live projects. I'm passionate about writing clean code, optimizing existing codebase for better performance and contributing to open source projects.
 
-- 🌱 I’m currently learning React JS
+- 🌱 I’m currently learning React JS and GSAP
 - 👯 I’m interested in collaborating with designers to build amazing websites and web apps
-- 🤔 I’m looking for a front end developer role
+- 🤔 I’m looking for a frontend developer role
 - 💬 Ask me about anything, I'll be happy to help
 - 📫 How to reach me: DM [@samadayoade](https://twitter.com/samadayoade)
 - ⚡ Fun fact: While I'm not coding, you'll find me writing fiction, reading African literatures, or studying finance and economics.
