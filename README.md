@@ -2,7 +2,7 @@
 
 I'm AbdulSamad Ayoade, a design minded frontend engineer based in Lagos, Nigeria who loves and enjoy working between design and engineering teams to transform ideas into prototypes and prototypes into live projects. I'm passionate about writing clean code, optimizing existing codebase for better performance and contributing to open source projects.
 
-- 🌱 I’m currently learning Typescript and Remix
+- 🌱 I’m currently learning Firebase and Remix
 - 👯 I’m interested in collaborating with designers to build amazing websites and web apps
 - 💬 Ask me about anything, I'll be happy to help
 - 📫 How to reach me: DM [@samadayoade](https://twitter.com/samadayoade)
