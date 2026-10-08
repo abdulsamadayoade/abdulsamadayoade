@@ -14,6 +14,4 @@ I'm AbdulSamad Ayoade, a design minded frontend engineer based in Lagos, Nigeria
 - [Portfolio](https://abdulsamad.xyz)
 - [Blog](https://articles.abdulsamad.xyz)
 - [GitHub](https://github.com/abdulsamadayoade)
-- [Facebook](https://facebook.com/abdulsamad.ayoade.313)
-- [Twitter](https://twitter.com/samadayoade)
-- [Instagram](https://www.instagram.com/abdul_codes/)
+- [X (formerly Twitter)](https://x.com/abdullllsamad)
