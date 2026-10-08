@@ -2,12 +2,6 @@
 
 I'm AbdulSamad Ayoade, a design minded frontend engineer based in Lagos, Nigeria who loves and enjoy working between design and engineering teams to transform ideas into prototypes and prototypes into live projects. I'm passionate about writing clean code, optimizing existing codebase for better performance and contributing to open source projects.
 
-- 🌱 I’m currently learning React Native, Remix & Storybook.
-- 👯 I’m interested in collaborating with designers to build amazing websites and web apps
-- 💬 Ask me about anything, I'll be happy to help
-- 📫 How to reach me: DM [@samadayoade](https://twitter.com/samadayoade)
-- ⚡ Fun fact: While I'm not coding, you'll find me writing fiction, reading African literatures, or studying finance and economics.
-
 ### Useful Links 💙
 
 - [Resume](https://drive.google.com/file/d/1VLrAURaDoH1QmWT192O5HKbuJH6hywcGwLtGs2aDVyA/view)
